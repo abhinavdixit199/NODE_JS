@@ -17,6 +17,6 @@
 const {mult,add,name}=require("./oper")  // here order of mult and add is not necessary it can be in any order 
 
 
-console.log(add(5,5))
+console.log(add(5,10))
 console.log(mult(5,5))
 console.log(name)
